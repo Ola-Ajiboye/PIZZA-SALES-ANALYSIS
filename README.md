@@ -4,6 +4,11 @@
 ---
 This report presents an analysis of pizza sales trends, customer behaviour, and overall market performance for a pizza chain using SQL queries. The goal of this project was to extract key insights on sales performance, customer purchasing behaviour, and product popularity using various query techniques. Based on the analysis, the report provides actionable recommendations to boost sales and optimize customer engagement.
 
+## TECHNICAL TOOLS:
+•	Power Query: for cleaning data, ensuring data quality and consistency.
+•	Excel I: Data Visualization and Calculation.
+•	SQL: Analysis
+
 ## DATA COLLECTION
 The data was collected from the company's internal point-of-sale (POS) system, which tracks each pizza order along with its timestamp, category, and size.
 
